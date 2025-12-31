@@ -20,10 +20,10 @@
 
 - **filename.ext1**:
   - ❓*First change*
-  - 🚀 *2nd change*
+  - 🚀 _2nd change_
 - **filename.ext2:**
-  - 🐛 *fixed X*
-  - 💡 *added Y*
+  - 🐛 _fixed X_
+  - 💡 _added Y_
 
 ## 🎯 Related Quests
 
@@ -45,4 +45,4 @@ Paste screenshot/logs/GIF here
 
 ## 🕒 Time Traveler Info
 
-*MM/DD HH:MM TZ* – e.g., *12/31 15:30 EET*
+_DD/MM HH:MM TZ_ – e.g., _31/12 15:30 EET_

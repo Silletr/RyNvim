@@ -1,2 +1,5 @@
 # Some Rust trash
 src/backend/core/target/
+
+# Some Python trash
+src/backend/keyboard/__pycache__/

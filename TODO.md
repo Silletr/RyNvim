@@ -11,7 +11,7 @@ Priority: 1st = 🔥 ASAP | 2nd = ⚡ Soon | 3rd = 📅 Later
    - ✅ Progress: [ ] 0%
 
 2. 📝 **File Text Writer** [PL-1st] 🔥
-   - Prompt user for filename (Lua input?)
+   - Prompt user for filename (By python, from keyboard module)
    - Append/insert text from buffer to file [~1h]
    - Files: `src/core/buffer.rs` + `runtime/lua/io.lua` [~1h]
    - Edge cases: Overwrite? Newline handling [~30m]

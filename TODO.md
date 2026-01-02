@@ -21,4 +21,4 @@ Priority: 1st = 🔥 ASAP | 2nd = ⚡ Soon | 3rd = 📅 Later
 **Daily Win Tracker:**
 
 - [ ] Today's focus: Keyboard parser
-- Est. total: 6h | Burn rate: ⏳
+- Estimate total: 6h | Burn rate: ⏳

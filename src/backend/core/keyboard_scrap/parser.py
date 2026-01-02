@@ -28,7 +28,7 @@ def write_input_to_file_real_time(filename: str) -> None:
         try:
             while True:
                 char = q.get()
-                if char == "\x03":  # Ctrl+C
+                if char == "\x03":  # Ctrl + C
                     print("\nStopped by user.")
                     break
                 elif char == "\x7f":  # Backspace

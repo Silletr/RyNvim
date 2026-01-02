@@ -1,4 +1,4 @@
-use pyo3::prelude::*;  // Brings Python, PyModule, etc.
+use pyo3::prelude::*;
 
 #[pyfunction]
 fn sum_as_string(a: usize, b: usize) -> PyResult<String> {

@@ -1,5 +1,5 @@
 [package]
-name = "ry_nvim_core"
+name = "core_ryvim"
 version = "0.1.0"
 edition = "2024"
 

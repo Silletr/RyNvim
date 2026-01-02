@@ -8,7 +8,7 @@ Priority: 1st = 🔥 ASAP | 2nd = ⚡ Soon | 3rd = 📅 Later
    - Parse key events (raw input → tokens) [~2h]
    - Bind via PyO3: `src/backend/keyboard/parser.py` ↔ `src/core/keyboard.rs` [~1h]
    - Test: Echo keys to statusline [~30m]
-   - ✅ Progress: [ ] 0%
+   - ✅ Progress: [ ] **5%**
 
 2. 📝 **File Text Writer** [PL-1st] 🔥
    - Prompt user for filename (By python, from keyboard module)
@@ -21,4 +21,4 @@ Priority: 1st = 🔥 ASAP | 2nd = ⚡ Soon | 3rd = 📅 Later
 **Daily Win Tracker:**
 
 - [ ] Today's focus: Keyboard parser
-- Est. total: 6h | Burn rate: ⏳
+- Estimate total: 6h | Burn rate: ⏳

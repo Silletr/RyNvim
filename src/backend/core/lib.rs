@@ -1,4 +1,4 @@
-use pyo3::prelude::*;  // Brings Python, PyModule, etc.
+use pyo3::prelude::*;
 
 #[pyfunction]
 fn sum_as_string(a: usize, b: usize) -> PyResult<String> {
@@ -6,7 +6,7 @@ fn sum_as_string(a: usize, b: usize) -> PyResult<String> {
 }
 
 #[pymodule]
-fn ry_nvim_core(py: Python<'_>, m: &Bound<'_, PyModule>) -> PyResult<()> {
+fn ry_nvim_core(_py: Python<'_>, m: &Bound<'_, PyModule>) -> PyResult<()> {
     m.add_function(wrap_pyfunction!(sum_as_string, m)?)?;
     Ok(())
 }

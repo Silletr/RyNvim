@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 pyo3 = { version = "0.27.2", features = ["extension-module"] }
+nix = { version = "0.30.1", features = ["term", "ioctl", "fs"] }
 
 [lib]
 crate-type = ["cdylib"]

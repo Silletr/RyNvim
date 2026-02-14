@@ -7,7 +7,7 @@ Priority: 1st = 🔥 ASAP | 2nd = ⚡ Soon | 3rd = 📅 Later
 1. ⌨️ **Keyboard Parser** [PL-1st] 🔥
    - Parse key events (raw input → tokens) [~2h]
    - Bind via PyO3: `src/backend/keyboard/parser.py` ↔ `src/core/keyboard.rs` [~1h]
-   - Test: Echo keys to statusline [~30m]
+   - Test: Echo keys to statusline [~30m] [!!! Done at 14/02/2026 !!!]
    - ✅ Progress: [ ] **5%**
 
 2. 📝 **File Text Writer** [PL-1st] 🔥
@@ -17,8 +17,3 @@ Priority: 1st = 🔥 ASAP | 2nd = ⚡ Soon | 3rd = 📅 Later
    - Edge cases: Overwrite? Newline handling [~30m]
    - ✅ Progress: [ ] 0%
    - Depends: Keyboard parser done
-
-**Daily Win Tracker:**
-
-- [ ] Today's focus: Keyboard parser
-- Estimate total: 6h | Burn rate: ⏳

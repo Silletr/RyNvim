@@ -3,3 +3,8 @@ src/backend/core/target/
 
 # Some Python trash
 src/backend/keyboard/__pycache__/
+
+# Some another one trash, idk the fuck is it
+src/backend/core/keyboard_scrap/.pyre/
+src/backend/core/.pyre/
+src/backend/core/keyboard_scrap/__pycache__/
